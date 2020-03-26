@@ -1,2 +1,2 @@
 # Add your variables here
-first_nu
+first_number = 3
